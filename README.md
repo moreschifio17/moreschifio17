@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Laravel Framework
-- 🌱 I’m currently learning Laravel Framework, Heroku, Firebase
+- 🌱 I’m currently learning Laravel Framework, Django Framework, Heroku, Firebase
 - 📫 How to reach me: Twitter: @moreschifio17   
 
 
