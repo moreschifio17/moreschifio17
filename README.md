@@ -1,5 +1,4 @@
-# Hi, I'm Fiorella 👋🏾 👩🏾‍💻
-
+# Hi, I'm Fiorella :wave: 
 <img src="/images/portada.png" alt="banner that says Fiorella Moreschi - web developer">
 I'm a web developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include, PHP, Laravel Framework, Python, Django Framework, SQL, Latex. I'm currently participing on Bootcamp as backend developer.
 
